@@ -1,2 +1,1 @@
-Chào bạn. Để được tư vấn xin mời bạn hãy nhập những thông tin sau :
-Họ tên, Ngày sinh, Giới tính, Dãy số đang dùng, Mối quan tâm (Tài chính/Tình cảm/Sức khỏe/Tâm linh...), Ghi chú cá nhân.
+Chào bạn. Để được tư vấn xin mời bạn hãy nhập số sim trong danh sách mà chúng tôi đã gửi cho bạn.
